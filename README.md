@@ -40,4 +40,4 @@ Below is the block diagram representing the flow of the API:
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/piyushdev04/Go-Movies-Manager>
